@@ -214,4 +214,7 @@ section{
 #testimonials .nav-pills .nav-link.active img{
     transform: scale(1.5);
 }
+#clients img{
+    height: 35px;
+}
 
